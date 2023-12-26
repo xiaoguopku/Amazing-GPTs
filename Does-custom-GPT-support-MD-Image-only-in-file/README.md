@@ -15,7 +15,7 @@ Does custom GPT support MD Image only in file?
 
 ### Instructions
 
-[Instructions.md](https://github.com/xiaoguopku/Amazing-GPTs/Does-custom-GPT-support-MD-Image-only-in-file/Instructions.md)
+[Instructions.md](https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Does-custom-GPT-support-MD-Image-only-in-file/Instructions.md)
 
 ### Conversation starters
 
@@ -26,8 +26,8 @@ Does custom GPT support MD Image only in file?
 
 ### Knowledge Base
 
-- [Images-not-in-Prompt.md](https://github.com/xiaoguopku/Amazing-GPTs/Does-custom-GPT-support-MD-Image-only-in-file/Images-not-in-Prompt.md)
-- [Images-part-in-Prompt.md](https://github.com/xiaoguopku/Amazing-GPTs/Does-custom-GPT-support-MD-Image-only-in-file/Images-part-in-Prompt.md)
+- [Images-not-in-Prompt.md](https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Does-custom-GPT-support-MD-Image-only-in-file/Images-not-in-Prompt.md)
+- [Images-part-in-Prompt.md](https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Does-custom-GPT-support-MD-Image-only-in-file/Images-part-in-Prompt.md)
 
 
 ### Capabilities

@@ -16,7 +16,7 @@ https://chat.openai.com/g/g-7TgyNtdeX-shen-qi-fan-yi-gpt-amazing-gpt-translator
 
 ### Instructions
 
-Refer to: [Instructions.md](https://github.com/xiaoguopku/Amazing-GPTs/Amazing-GPT-Translator/Instructions.md)
+Refer to: [Instructions.md](https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Amazing-GPT-Translator/Instructions.md)
 
 ### Conversation starters
 

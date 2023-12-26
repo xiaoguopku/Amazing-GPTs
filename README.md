@@ -1,6 +1,6 @@
 # Amazing-GPTs
 
-中文版 README 文件看这里：[README_CN.md](https://github.com/xiaoguopku/Amazing-GPTs/README_CN.md).
+中文版 README 文件看这里：[README_CN.md](https://github.com/xiaoguopku/Amazing-GPTs/tree/master/README_CN.md).
 
 Welcome to AI2Magic's official repository, showcasing our range of custom GPT creations, spanning fully open source, semi-open source, to proprietary projects.
 
@@ -11,11 +11,11 @@ These projects have completely open-sourced instructions and contents:
 - 神奇翻译GPT - Amazing GPT Translator
   - Overview: Precisely separates translation content from user instructions and offers both "Fast" and "Professional" modes, catering to diverse translation needs.
   - GPT URL: https://chat.openai.com/g/g-7TgyNtdeX-shen-qi-fan-yi-gpt-amazing-gpt-translator
-  - Source Code: https://github.com/xiaoguopku/Amazing-GPTs/Amazing-GPT-Translator/
+  - Source Code: https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Amazing-GPT-Translator/
 - Does custom GPT support MD Image only in file?
   - Overview: This GPT is specifically designed to test and address peculiar bugs related to displaying images in Markdown format within custom GPTs.
   - GPT URL: https://chat.openai.com/g/g-horVE39hs-does-custom-gpt-support-md-image-only-in-file
-  - Source Code: https://github.com/xiaoguopku/Amazing-GPTs/Does-custom-GPT-support-MD-Image-only-in-file/
+  - Source Code: https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Does-custom-GPT-support-MD-Image-only-in-file/
 
 ## Semi-Open Source Custom GPTs
 

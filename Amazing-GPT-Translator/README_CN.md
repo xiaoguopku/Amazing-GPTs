@@ -14,7 +14,7 @@ https://chat.openai.com/g/g-7TgyNtdeX-shen-qi-fan-yi-gpt-amazing-gpt-translator
 
 ### 指令
 
-见：[Instructions.md](https://github.com/xiaoguopku/Amazing-GPTs/Amazing-GPT-Translator/Instructions.md)
+见：[Instructions.md](https://github.com/xiaoguopku/Amazing-GPTs/tree/master/Amazing-GPT-Translator/Instructions.md)
 
 ### 引导词
 
